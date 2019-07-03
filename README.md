@@ -1,4 +1,4 @@
 # RecipeApp
 
 
-<img src ="recipe.gif"  wid=1000px height= 900px margin = auto/>
+<img src ="recipe.gif"  wid=400px height= 500px margin = auto/>
